@@ -1,2 +1,1 @@
-# loyalty-system-backend
-A repository for the loyalty points and digital payment system backend
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
